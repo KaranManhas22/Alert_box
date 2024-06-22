@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert_box</string>
+    <string name="alert_dialog">Alert_Dialog</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="enter_your_name">enter_your_name\n</string>
+    <string name="_0">0</string>
+</resources>
